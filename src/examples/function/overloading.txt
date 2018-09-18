@@ -1,0 +1,10 @@
+int x() {
+    return 0;
+}
+
+int x(int a) {
+    return a;
+}
+
+println(x());
+println(x(42));

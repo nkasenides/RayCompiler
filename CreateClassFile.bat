@@ -1,0 +1,1 @@
+java -jar lib\jasmin.jar HelloWorld.j

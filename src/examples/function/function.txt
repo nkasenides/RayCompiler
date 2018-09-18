@@ -1,0 +1,5 @@
+int randomNumber() {
+    return 4;
+}
+
+println(randomNumber());
